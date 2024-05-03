@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",
