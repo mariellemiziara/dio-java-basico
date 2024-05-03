@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "marie.Introdução.App",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",

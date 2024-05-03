@@ -1,4 +1,4 @@
-package marie.primeirasemana;
+package marie.Introdução;
 
 public class Operadores {
 

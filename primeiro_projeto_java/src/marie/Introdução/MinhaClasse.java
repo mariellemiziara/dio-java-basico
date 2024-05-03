@@ -1,4 +1,4 @@
-package marie.primeirasemana;
+package marie.Introdução;
 public class MinhaClasse {
 
     public static void main(String[] args) {

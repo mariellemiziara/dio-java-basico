@@ -1,4 +1,4 @@
-package marie.primeirasemana;
+package marie.Introdução;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -26,6 +26,6 @@ public class AboutMe {
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + "cm ");
         
-        
+        scanner.close();
     }
 }
