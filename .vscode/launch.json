@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaMedidaSwitch",
+            "request": "launch",
+            "mainClass": "SistemaMedidaSwitch",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "marie.Introdução.App",
