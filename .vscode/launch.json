@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadoraSwitch",
+            "request": "launch",
+            "mainClass": "PlanoOperadoraSwitch",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedidaSwitch",
             "request": "launch",
             "mainClass": "SistemaMedidaSwitch",
