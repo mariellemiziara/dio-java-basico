@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exercicios",
+            "request": "launch",
+            "mainClass": "exercicios",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "ExemploForEach",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "teste",
             "request": "launch",
             "mainClass": "teste",
