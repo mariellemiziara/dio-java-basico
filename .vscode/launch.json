@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.Contador",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "ProcessoSeletivo",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepExemplo",
             "request": "launch",
             "mainClass": "FormatadorCepExemplo",
