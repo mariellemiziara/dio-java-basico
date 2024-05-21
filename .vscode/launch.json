@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "dio-java-basico_f454a358"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Contador",
