@@ -49,7 +49,7 @@ public class SimulacaoBancaria {
         
         
         // Exibe mensagem de opção inválida se o usuário escolher uma opção inválida:    
-                default:
+               default:
                     System.out.println("Opção inválida. Tente novamente."); 
             }
         }
